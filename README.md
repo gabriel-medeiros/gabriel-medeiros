@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <a href="https://discord.gg/XTW52Kt">
-  <img align="left" alt="Gabriel's Discord" width="22px" src="https://raw.ithub.com/gabriel-medeiros/gabriel-medeiros/main/assets/discord.svg" />
+  <img align="left" alt="Gabriel's Discord" width="22px" src="https://raw.githubusercontent.com/gabriel-medeiros/gabriel-medeiros/main/assets/discord.svg" />
 </a>
 <a href="https://www.linkedin.com/in/gabrielvsmedeiros/">
   <img align="left" alt="Gabriel's Linkedin" width="22px" src="https://raw.githubusercontent.com/gabriel-medeiros/gabriel-medeiros/main/assets/linkedin.svg" />
